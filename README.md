@@ -344,14 +344,6 @@ Just keep the original copyright notice intact.
 
 ---
 
-## 🆘 Support & Credits
-
-### Support
-- 📧 **Email:** support@ScoreBoard.com
-- 💬 **Discord:** [Join our server](https://discord.gg/redshadow)
-- 🐛 **Issues:** [GitHub Issues](https://github.com/yourusername/ScoreBoard/issues)
-- 📖 **Wiki:** [Documentation](https://github.com/yourusername/ScoreBoard/wiki)
-
 ### Credits
 - 🎨 **Design:** Inspired by modern glassmorphism trends
 - 🔧 **Development:** Built with ❤️ for the FiveM community
