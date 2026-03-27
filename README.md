@@ -3,11 +3,11 @@
 > **Modern FiveM Scoreboard with Dark Red Glassmorphism Theme**  
 > A sleek, real-time scoreboard for FiveM roleplay servers displaying online players with job information, ping status, and search functionality
 
-[![Version](https://img.shields.io/badge/version-1.0.0-red?style=for-the-badge&logo=git&logoColor=white)](https://github.com/yourusername/ScoreBoard)
+[![Version](https://img.shields.io/badge/version-1.0.0-red?style=for-the-badge&logo=git&logoColor=white)](https://github.com/aradashkan/FiveM-Scoreboard)
 [![FiveM](https://img.shields.io/badge/FiveM-Compatible-FF6B35?style=for-the-badge&logo=fivem&logoColor=white)](https://fivem.net/)
 [![License](https://img.shields.io/badge/License-MIT-4CAF50?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](LICENSE)
 [![ESX](https://img.shields.io/badge/ESX-Supported-2196F3?style=for-the-badge&logo=javascript&logoColor=white)](https://esx-framework.org/)
-[![QBCore](https://img.shields.io/badge/QBCore-Supported-9C27B0?style=for-the-badge&logo=javascript&logoColor=white)](https://qbcore-framework.org/)
+[![QBCore](https://img.shields.io/badge/QBCore-Supported-9C27B0?style=for-the-badge&logo=javascript&logoColor=white)](https://qbcore.net/)
 
 ---
 
